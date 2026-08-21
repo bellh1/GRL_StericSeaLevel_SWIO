@@ -1,1 +1,13 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Intermediate Water Salinification Counteracts Thermosteric Sea-Level Rise in the Tropical Southwest Indian Ocean"
+version: 1.0.0
+date-released: 2026-08-22
+authors:
+  - family-names: "Han"
+    given-names: "JongHun"
+  - family-names: "Nam"
+    given-names: "SungHyun"
+  - family-names: "Na"
+    given-names: "Hanna"
+license: MIT
